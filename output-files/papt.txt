@@ -1,0 +1,5 @@
+ABC 1 7
+ABC 2 6
+ABC 3 4
+PQR 1 11
+PQR 2 12
