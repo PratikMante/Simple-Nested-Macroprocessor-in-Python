@@ -37,3 +37,7 @@ This is a code for simple nested macroprocessor written in Python
 32. if j!= lines1 : goto 26
 33. if ! EOF : goto 22
 34. Close all files
+
+## Flowchart
+
+![](images/macroprocessor-flowchart.png)
